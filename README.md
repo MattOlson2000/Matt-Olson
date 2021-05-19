@@ -27,7 +27,8 @@ Some of my hobbies include
 
 :computer: Programing
 
-Here are some fun Stats I found
+[![trophy](https://github-profile-trophy.vercel.app/?username=MattOlson2000&rank=SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MattOlson2000)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MattOlson2000&title=Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MattOlson2000&show_icons=true)
