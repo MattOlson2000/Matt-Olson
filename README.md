@@ -1,6 +1,6 @@
 # **Welcome to My Github Page**
 
-#### :books: I am Sophomore at Century Community Colleg :arrow_right: Transfering to University of Minnesota Twin Cities 
+#### :books: I am Junior at University of Minnesota Twin Cities 
 
 :computer:Currently Creating a Personal website and making some personal projects over the summer
 
