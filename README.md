@@ -21,8 +21,6 @@
 
 Some of my hobbies include
 
-:bowling: Bowling
-
 :space_invader: Video games such as CS-GO, Rust, Valorant, and Rocket league
 
 :computer: Programing
